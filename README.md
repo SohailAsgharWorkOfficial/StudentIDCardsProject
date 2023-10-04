@@ -1,5 +1,5 @@
-# Student-Registration-Crud-Operation
-This is a Student Registration Crud Operation in php with MySQL Database
+# Students-ID-Card-Generator
+This is a Student ID Card Generator in php with MySQL Database
 
 First of all you need to create a data base name "user"
 and create a table "card_activation"
